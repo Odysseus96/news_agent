@@ -1,0 +1,4 @@
+backend/.env
+data/
+logs/
+vector_index/

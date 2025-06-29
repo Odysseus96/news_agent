@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+llama-index
+llama-index-embeddings-huggingface
+llama-index-embeddings-ollama
+langgraph
+openai
+feedparser
+beautifulsoup4
+requests
+tqdm
+apscheduler
+pydantic
+matplotlib
