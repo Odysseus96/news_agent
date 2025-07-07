@@ -1,0 +1,2 @@
+Milvus is an open-source vector database for embedding similarity search.
+LlamaIndex connects LLMs to external data, enabling retrieval-augmented generation.
