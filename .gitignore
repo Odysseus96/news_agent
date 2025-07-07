@@ -2,3 +2,5 @@ backend/.env
 data/
 logs/
 vector_index/
+milvus_llamaindex.db
+frontend/
